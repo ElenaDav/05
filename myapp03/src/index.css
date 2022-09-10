@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.message {
+  color: darkslategrey;
+  font-size: 5rem;
+  background: yellowgreen;
+  border-radius: 1rem;
+  text-align: center;
+}
