@@ -14,8 +14,24 @@ code {
 
 .message {
   color: darkslategrey;
-  font-size: 5rem;
+  font-size: 2rem;
   background: yellowgreen;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 15px;
   border-radius: 1rem;
   text-align: center;
+}
+
+.btn button {
+  width: 5rem;
+  height: 2rem;
+  font-size: 20px;
+  text-align: center;
+}
+
+input {
+  width: 10rem;
+  height: 2rem;
+  font-size: 20px;
 }
