@@ -7,7 +7,7 @@ const Message = ({ author, text }) => {
     <div className="message-text">
       <Card sx={{ minWidth: 275 }}>
         <CardContent>
-          <Typography variant="h5" component={'div'} color="primary">
+          <Typography variant="h5" color="primary">
             {author}:
           </Typography>
           <Typography variant="body">{text}</Typography>
