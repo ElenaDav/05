@@ -98,7 +98,7 @@ function App() {
               margin: '10px',
             }}
             noValidate
-            autoComplete="off"
+            autoComplete="on"
           >
             <Typography variant="h5" component="div" color="primary">
               Messages
